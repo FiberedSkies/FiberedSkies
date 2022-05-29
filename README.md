@@ -11,7 +11,7 @@ I'm the mildly crazy and extremely nerdy head of research at [Primitive](https:/
 
 BSc (currently on break) - Mathematical Physics
 
-Paused my pursuit of a Bachelor's to focus on building and researching whatever my heart desires in the DeFi derivatives spacefor Primitive.
+Paused my pursuit of a Bachelor's to focus on building and researching whatever my heart desires in the DeFi derivatives space for Primitive.
 
 ### DeFi Research
 
