@@ -5,7 +5,7 @@ I'm the mildly crazy and extremely nerdy head of research at [Primitive](https:/
 - 🔭 Currently building a generalized CFMM simulation package with [@experiencedft](https://github.com/experiencedft). Intention is to structure a large variety of sim needs at Primitive around this including our Theta Vault simulations.
 - 🌱 I’m currently learning about MEV
 - 🥰 Pronouns: She/her
-- ⚡ Fun fact: I'm a purely obsessed with [This Must Be The Place - Talking Heads](https://www.youtube.com/watch?v=fsccjsW8bSY)
+- ⚡ Fun fact: I'm purely obsessed with [This Must Be The Place - Talking Heads](https://www.youtube.com/watch?v=fsccjsW8bSY)
 
 ### Education
 
