@@ -1,6 +1,6 @@
 ### Hey I'm Estelle!
 
-I'm the mildly crazy and extremely nerdy head of research at [Primitive](https://github.com/primitivefinance). My research interests include computational approaches the gravitational physics and stellar structures and evolution. Recently have taken the dive into AMM and financial derivative research.
+I'm the mildly crazy and extremely nerdy transgender head of research at [Primitive](https://github.com/primitivefinance). My research interests include computational approaches the gravitational physics and stellar structures and evolution. Recently have taken the dive into AMM and financial derivative research.
 
 - 🔭 Currently building a generalized CFMM simulation package with [@experiencedft](https://github.com/experiencedft). Intention is to structure a large variety of sim needs at Primitive around this including our Theta Vault simulations.
 - 🌱 I’m currently learning about MEV
