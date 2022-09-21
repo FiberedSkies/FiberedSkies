@@ -2,8 +2,8 @@
 
 I'm the mildly crazy and extremely nerdy transgender head of research at [Primitive](https://github.com/primitivefinance). My research interests include computational approaches the gravitational physics and stellar structures and evolution. Recently have taken the dive into AMM and financial derivative research.
 
-- 🔭 Currently building a generalized CFMM simulation package with [@experiencedft](https://github.com/experiencedft). Intention is to structure a large variety of sim needs at Primitive around this including our Theta Vault simulations.
-- 🌱 I’m currently learning about MEV
+- 🔭 Currently working on a paper on MEV aware design in AMMs
+- 🌱 I’m currently learning more about chain architecture
 - 🥰 Pronouns: She/her
 - ⚡ Fun fact: I'm purely obsessed with [This Must Be The Place - Talking Heads](https://www.youtube.com/watch?v=fsccjsW8bSY)
 
