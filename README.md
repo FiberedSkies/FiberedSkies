@@ -1,9 +1,9 @@
 ### Hey I'm Estelle!
 
-I'm the mildly crazy and extremely curious transgender head of research at [Primitive](https://github.com/primitivefinance). My current academic obsession is molecular biophysics. Recently have taken the dive into financial derivative research.
+I'm an extremely curious transgender head of research at [Primitive](https://github.com/primitivefinance). My current academic obsession is molecular biophysics. Recently have taken the dive into financial derivative research.
 
 - 🔭 Currently working on robust and capitally-efficient treasury management
-- 🌱 I’m currently learning topology
+- 🌱 I’m currently learning Rust
 - 🥰 Pronouns: She/her
 - ⚡ Fun fact: I'm purely obsessed with [This Must Be The Place - Talking Heads](https://www.youtube.com/watch?v=fsccjsW8bSY)
 
@@ -13,7 +13,7 @@ BSc - Mathematical Physics (In-progress)
 
 Working through my degree in mathematical physics while I work in DeFi research! In my free time, I'm currently learning how to be a better simulation engineer and data scientist.
 
-### DeFi Research
+### DeFi Papers
 
 - 📈 [Replicating Portfolios: Constructing Permissionless Derivatives](https://primitive.xyz/rmm-derivatives.pdf)
 
