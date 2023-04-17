@@ -2,7 +2,7 @@
 
 I'm an extremely curious transgender head of research at [Primitive](https://github.com/primitivefinance). My current academic obsession is molecular biophysics. Recently have taken the dive into financial derivative research.
 
-- 🔭 Currently working on robust and capitally-efficient treasury management
+- 🔭 Currently working on [Arbiter](https://github.com/primitivefinance/arbiter)
 - 🌱 I’m currently learning Rust
 - 🥰 Pronouns: She/her
 - ⚡ Fun fact: I'm purely obsessed with [This Must Be The Place - Talking Heads](https://www.youtube.com/watch?v=fsccjsW8bSY)
@@ -30,5 +30,3 @@ Working through my degree in mathematical physics while I work in DeFi research!
 ### Blog Posts
 
 - 🌱 [Introduction to On-Chain Portfolio Management](https://www.primitive.xyz/posts/RMMTech)
-
-**ELI5**: Details the mechanism of action behind two key use cases of Replicating Market Makers (RMMs): replicating specific portfolios and dynamically allocating spot liquidity with reduced rebalance needs. Proceeds to highlight how these use cases make great tools in on-chain portfolio management, particularly in the context of treasury management.
