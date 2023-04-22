@@ -2,7 +2,7 @@
 
 I'm an extremely curious transgender head of research at [Primitive](https://github.com/primitivefinance). My current academic obsession is molecular biophysics. Recently have taken the dive into financial derivative research.
 
-- 🔭 Currently working on [Arbiter](https://github.com/primitivefinance/arbiter)
+- 🔭 Currently working on [Arbiter](https://github.com/primitivefinance/arbiter) and LLM tooling
 - 🌱 I’m currently learning Rust
 - 🥰 Pronouns: She/her
 - ⚡ Fun fact: I'm purely obsessed with [This Must Be The Place - Talking Heads](https://www.youtube.com/watch?v=fsccjsW8bSY)
