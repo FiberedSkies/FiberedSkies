@@ -1,6 +1,6 @@
-### Hey I'm Estelle!
+### Hey I'm Estelle 🌟
 
-I'm an extremely curious transgender head of research at [Primitive](https://github.com/primitivefinance). My current academic obsession is molecular biophysics. Recently have taken the dive into financial derivative research.
+I'm an extremely curious transgender head of research at [Primitive](https://github.com/primitivefinance). I have a giant cat companion named Sushi 🍣, she's twice the size of your average kitty 🐱. My academic background is in astrophysics with a particular focus on stellar physics 🌌. Recently have taken the dive into financial derivative research.
 
 - 🔭 Currently working on [Arbiter](https://github.com/primitivefinance/arbiter) and LLM tooling
 - 🌱 I’m currently learning Rust
