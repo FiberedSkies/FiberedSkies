@@ -13,6 +13,11 @@ BSc - Mathematical Physics (In-progress)
 
 Working through my degree in mathematical physics while I work in DeFi research! In my free time, I'm currently learning how to be a better simulation engineer and data scientist.
 
+### DeFi Blog Posts
+
+- 🌱 [Introduction to On-Chain Portfolio Management](https://www.primitive.xyz/posts/RMMTech)
+- 🍪 [Portfolio Management: Fee Generation in AMMs](https://www.primitive.xyz/blog/fee-growth)
+
 ### DeFi Papers
 
 - 📈 [Replicating Portfolios: Constructing Permissionless Derivatives](https://www.primitive.xyz/papers/Constructing_Permissionless_Derivatives.pdf)
@@ -26,8 +31,3 @@ Working through my degree in mathematical physics while I work in DeFi research!
 - 🏛️ [Primitive RMM-01](https://www.primitive.xyz/papers/Whitepaper.pdf)
 
 **Abstract**: Constant function market makers (CFMMs) have evolved from a small group of decentralized exchanges (DEXs) to a broad and largely undiscovered class of automated market makers (AMMs). CFMMs are decentralized exchanges fully backed by a community of liquidity providers seeking to earn a yield on their deposited assets. The portfolio of a liquidity provider follows a payoff structure specific to the CFMM they are providing liquidity too. It was recently shown that the space of concave, non-negative, non-decreasing, 1-homogeneous payoff functions and the space of convex CFMMs are equivalent, along with a method to convert between a given payoff of the above type with an associated CFMM. These CFMMs, which replicate specific, desired payoff functions, are called replicating market makers (RMMs). In this paper, we present an implementation of an RMM that approximates a Black–Scholes covered call, which we call RMM-01.
-
-### Blog Posts
-
-- 🌱 [Introduction to On-Chain Portfolio Management](https://www.primitive.xyz/posts/RMMTech)
-- 🍪 [Portfolio Management: Fee Generation in AMMs](https://www.primitive.xyz/blog/fee-growth)
