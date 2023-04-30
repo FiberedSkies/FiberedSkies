@@ -1,11 +1,12 @@
 ### Hey I'm Estelle 🌟
 
-I'm an extremely curious transgender head of research at [Primitive](https://github.com/primitivefinance). I have a giant cat companion named Sushi 🍣, she's twice the size of your average kitty 🐱. My academic background is in astrophysics with a particular focus on stellar physics 🌌. Recently have taken the dive into financial derivative research.
+I'm an extremely curious transgender head of research at [Primitive](https://github.com/primitivefinance). I have a giant cat companion named Sushi 🍣, she's twice the size of your average kitty 🐱. My academic background is in astrophysics with a particular focus on heliophysics 🌌. I enjoy working with data. Recently have taken the dive into financial derivative research.
 
-- 🔭 Currently working on [Arbiter](https://github.com/primitivefinance/arbiter) and LLM tooling
-- 🌱 I’m currently learning Rust
-- 🥰 Pronouns: She/her
-- ⚡ Fun fact: I'm purely obsessed with [This Must Be The Place - Talking Heads](https://www.youtube.com/watch?v=fsccjsW8bSY)
+- 🔭 I'm currently learning Solidity and reading [Stochastic Calculus for Finance II: Continuous Time Models](https://cms.dm.uba.ar/academico/materias/2docuat2016/analisis_cuantitativo_en_finanzas/Steve_ShreveStochastic_Calculus_for_Finance_II.pdf)
+- 🌱 Currently building [Arbiter](https://github.com/primitivefinance/arbiter), specifically a convex optimized swap router module.
+- 🖥️ I work mainly in Python, Rust, SQL, GraphQL, LaTeX, Julia, Wolfram Language, and R
+- 🏳️‍⚧️ Pronouns: She/her
+- ‼️ Fun fact: I'm purely obsessed with [This Must Be The Place - Talking Heads](https://www.youtube.com/watch?v=fsccjsW8bSY)
 
 ### Education
 
@@ -15,7 +16,7 @@ Working through my degree in mathematical physics while I work in DeFi research!
 
 ### DeFi Blog Posts
 
-- 🌱 [Introduction to On-Chain Portfolio Management](https://www.primitive.xyz/posts/RMMTech)
+- 🥛 [Introduction to On-Chain Portfolio Management](https://www.primitive.xyz/posts/RMMTech)
 - 🍪 [Portfolio Management: Fee Generation in AMMs](https://www.primitive.xyz/blog/fee-growth)
 
 ### DeFi Papers
