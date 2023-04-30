@@ -30,3 +30,4 @@ Working through my degree in mathematical physics while I work in DeFi research!
 ### Blog Posts
 
 - 🌱 [Introduction to On-Chain Portfolio Management](https://www.primitive.xyz/posts/RMMTech)
+- 🍪 [Portfolio Management: Fee Generation in AMMs](https://www.primitive.xyz/blog/fee-growth)
