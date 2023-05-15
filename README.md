@@ -12,7 +12,7 @@ I'm an extremely curious transgender head of research at [Primitive](https://git
 
 BSc - Mathematical Physics (In-progress)
 
-Working through my degree in mathematical physics while I work in DeFi research! In my free time, I'm currently learning how to be a better simulation engineer and data scientist.
+Working through my degree in mathematical physics while I work in DeFi research! In my free time, I'm currently learning how to be a better systems engineer.
 
 ### DeFi Blog Posts
 
