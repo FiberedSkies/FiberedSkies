@@ -1,6 +1,6 @@
 ### Hey I'm Estelle 🌟
 
-I'm an extremely curious transgender head of research at [Primitive](https://github.com/primitivefinance). I have a giant cat companion named Sushi 🍣, she's twice the size of your average kitty 🐱. My academic background is in astrophysics with a particular focus on heliophysics 🌌. I enjoy working with data. Recently have taken the dive into financial derivative research.
+I'm an extremely curious transgender research engineer and mathematical physics student at University of Waterloo 🌌. I have a giant cat companion named Sushi 🍣, she's twice the size of your average kitty 🐱. Recently have taken the dive into financial derivative research.
 
 - 🔭 I'm currently learning Solidity and reading [Stochastic Calculus for Finance II: Continuous Time Models](https://cms.dm.uba.ar/academico/materias/2docuat2016/analisis_cuantitativo_en_finanzas/Steve_ShreveStochastic_Calculus_for_Finance_II.pdf)
 - 🌱 Currently building [Aika](https://github.com/primitivefinance/aika), a discrete event simulator for Rust optimized for data-intensive simulations.
