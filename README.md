@@ -1,34 +1,29 @@
 ### Hey I'm Estelle 🌟
 
-I'm an extremely curious transgender research engineer and mathematical physics student at University of Waterloo 🌌. I have a giant cat companion named Sushi 🍣, she's twice the size of your average kitty 🐱. Recently have taken the dive into financial derivative research.
+I'm an extremely curious transgender research engineer and mathematical physics student at University of Waterloo 🌌. I have a giant cat companion named Sushi 🍣, she's twice the size of your average kitty 🐱. I really enjoy building data-intensive simulations and other larger scale data processing applications, and recently have started rebuilding my simulation and analytics stack in Rust 🦀 for performance and scalability reasons. I've worked in decentralized finance for a little over two years now, working alongside [Primitive](https://github.com/primitivefinance) as their Head of Research until this past summer. I have since gone back to school full-time, and am hoping to explore other applications of distributed systems in research and governance.
 
-- 🔭 I'm currently learning Solidity and reading [Stochastic Calculus for Finance II: Continuous Time Models](https://cms.dm.uba.ar/academico/materias/2docuat2016/analisis_cuantitativo_en_finanzas/Steve_ShreveStochastic_Calculus_for_Finance_II.pdf)
-- 🌱 Currently building [Aika](https://github.com/primitivefinance/aika), a discrete event simulator for Rust optimized for data-intensive simulations.
-- 🖥️ I work mainly in Python, Rust, SQL, GraphQL, LaTeX, Julia, Wolfram Language, and R
+- 🔭 I'm currently learning how to use Apache Flink and reading [Multiple Time Scale Dynamics](https://www.amazon.ca/Multiple-Scale-Dynamics-Christian-Kuehn/dp/331934417X)
+- 🌱 I'm building a unified data analytics platform in Rust 🦀 using [Timely Dataflow](https://github.com/TimelyDataflow/timely-dataflow).
+- 🖥️ I work mainly in Rust, Python, SQL, GraphQL, LaTeX, Julia, and R
 - 🏳️‍⚧️ Pronouns: She/her
 - ‼️ Fun fact: I'm purely obsessed with [This Must Be The Place - Talking Heads](https://www.youtube.com/watch?v=fsccjsW8bSY)
 
 ### Education
 
-BSc - Mathematical Physics (In-progress)
+BSc - Mathematical Physics (In-progress, expected 2026)
 
-Working through my degree in mathematical physics while I work in DeFi research! In my free time, I'm currently learning how to be a better systems engineer.
+Working through my undergraduate degree in mathematical physics while I explore interesting areas of tech to focus on as a research engineer!
 
-### DeFi Blog Posts
+### Blogs
 
 - 🥛 [Introduction to On-Chain Portfolio Management](https://www.primitive.xyz/posts/RMMTech)
 - 🍪 [Portfolio Management: Fee Generation in AMMs](https://www.primitive.xyz/blog/fee-growth)
 
-### DeFi Papers
+### Papers
 
-- 📈 [Replicating Portfolios: Constructing Permissionless Derivatives](https://www.primitive.xyz/papers/Constructing_Permissionless_Derivatives.pdf)
-
-**Abstract**: The current design space of derivatives in Decentralized Finance (DeFi) relies heavily on oracle systems. Replicating market makers (RMMs) provide a mechanism for converting specific payoff functions to an associated Constant Function Market Makers (CFMMs). We leverage RMMs to replicate the approximate payoff of a Black-Scholes covered call option. RMM-01 is the first implementation of an on-chain, black scholes priced, expiring option mechanism that relies on arbitrage rather than an external oracle for price. We provide frameworks for derivative instruments and structured products achievable on-chain without relying on oracles. We construct long and binary options and briefly discuss perpetual covered call strategies commonly referred to as "theta vaults." Moreover, we introduce a procedure to eliminate liquidation risk in lending markets. The results suggest that CFMMs are essential for structured product design with minimized trust dependencies.
-
-- 🕹️ [Financial Virtual Machine](https://www.primitive.xyz/papers/yellow.pdf)
-
-**Abstract**: This document descibes the design implications of building a Finite State Machine (FSM) with its own opcodes on top of the Ethereum Virtual Machine (EVM). We examine this design pattern in the context of Decentralized Finance (DeFi) in what we call the Financial Virtual Machine (FVM). The FVM is designed to be a general purpose FSM that can be used to in- teract with variety of financial primitives. Also, it provides an interface over atomicity and the ability to reason about program correctness. In particular, FVM enables users to take multiple actions on their portfolios within an single commit to Ethereum. The individual transactions in FVM can also ac- crue transient debt, but no lasting debt will be written to the blockchain due to the validation of state after processing. For example, rebalancing an arbitrary amount of positions can be done atomically which drastically simplifies both the design and removes the need for signing multiple transactions. The FVM is a critical component of Primitive’s Portfolio protocol, which builds on top of Constant Function Market Maker (CFMM) Liquidity Provider (LP) positions.
-
-- 🏛️ [Primitive RMM-01](https://www.primitive.xyz/papers/Whitepaper.pdf)
-
-**Abstract**: Constant function market makers (CFMMs) have evolved from a small group of decentralized exchanges (DEXs) to a broad and largely undiscovered class of automated market makers (AMMs). CFMMs are decentralized exchanges fully backed by a community of liquidity providers seeking to earn a yield on their deposited assets. The portfolio of a liquidity provider follows a payoff structure specific to the CFMM they are providing liquidity too. It was recently shown that the space of concave, non-negative, non-decreasing, 1-homogeneous payoff functions and the space of convex CFMMs are equivalent, along with a method to convert between a given payoff of the above type with an associated CFMM. These CFMMs, which replicate specific, desired payoff functions, are called replicating market makers (RMMs). In this paper, we present an implementation of an RMM that approximates a Black–Scholes covered call, which we call RMM-01.
+- 🕹️ [Financial Virtual Machine](https://www.primitive.xyz/papers/yellow.pdf) - Feb 2023
+  - The Financial Virtual Machine (FVM) is designed to be a general purpose Finite State Machine (FSM), built on top of the EVM, that can be used to interact with a variety of structured financial products.
+- 📈 [Replicating Portfolios: Constructing Permissionless Derivatives](https://www.primitive.xyz/papers/Constructing_Permissionless_Derivatives.pdf) - May 2022
+  - Example reconstructions of traditional structured products built around RMM-01. Concludes CFMMs are invaluable for structured product design with minimized trust dependencies.
+- 🏛️ [Primitive RMM-01](https://www.primitive.xyz/papers/Whitepaper.pdf) - Oct 2021
+  - An implementation of an RMM that approximates a Black–Scholes covered call, which we called RMM-01.
