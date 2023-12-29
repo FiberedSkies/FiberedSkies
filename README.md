@@ -1,16 +1,21 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=0xEstelle)
+
 ### Hey I'm Estelle 🌟
 
-I'm an extremely curious transgender research engineer and mathematical physics student at University of Waterloo 🌌. I have a giant cat companion named Sushi 🍣, she's twice the size of your average kitty 🐱. I really enjoy building data-intensive simulations and other larger scale data processing applications, and recently have started rebuilding my simulation and analytics stack in Rust 🦀 for performance and scalability reasons. I've worked in decentralized finance for a little over two years now, working alongside [Primitive](https://github.com/primitivefinance) as their Head of Research until this past summer. I have since gone back to school full-time, and am hoping to explore other applications of distributed systems in research and governance.
+I'm an extremely curious transgender research engineer and mathematical physics student at University of Waterloo 🌌. I have a giant cat companion named Sushi 🍣, she's twice the size of your average kitty 🐱. I recently have rebuilt my simulation and analytics stack in Rust 🦀 for performance and scalability reasons, and am now looking for other Rust projects to collaborate on. I've worked in decentralized finance for a little over two years now, working alongside [Primitive](https://github.com/primitivefinance) as their Head of Research until this past summer. I have since gone back to school full-time, in hopes of further exploring applications of topology and geometry in software development.
 
-- 🔭 I'm currently learning how to use Apache Flink and reading [Multiple Time Scale Dynamics](https://www.amazon.ca/Multiple-Scale-Dynamics-Christian-Kuehn/dp/331934417X)
-- 🌱 I'm building a unified data analytics platform in Rust 🦀 using [Timely Dataflow](https://github.com/TimelyDataflow/timely-dataflow).
+- 🔭 I'm currently reading
+  - [ ] [Discrete Differential Geometry: An Applied Introduction](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
+  - [ ] [Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
+  - [ ] [Topological Signal Processing](https://link.springer.com/book/10.1007/978-3-642-36104-3)
+- 🌱 I'm working on exploring applications of algebriac topology in data analysis.
 - 🖥️ I work mainly in Rust, Python, SQL, GraphQL, LaTeX, Julia, and R
 - 🏳️‍⚧️ Pronouns: She/her
 - ‼️ Fun fact: I'm purely obsessed with [This Must Be The Place - Talking Heads](https://www.youtube.com/watch?v=fsccjsW8bSY)
 
 ### Education
 
-BSc - Mathematical Physics (In-progress, expected 2026)
+BSc - Mathematical Physics (In-progress)
 
 Working through my undergraduate degree in mathematical physics while I explore interesting areas of tech to focus on as a research engineer!
 
