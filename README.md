@@ -1,5 +1,3 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=0xEstelle)
-
 ### Hey I'm Estelle 🌟
 
 I'm an extremely curious transgender research engineer and mathematical physics student at University of Waterloo 🌌. I have a giant cat companion named Sushi 🍣, she's twice the size of your average kitty 🐱. I recently have rebuilt my simulation and analytics stack in Rust 🦀 for performance and scalability reasons, and am now looking for other Rust projects to collaborate on. I've worked in decentralized finance for a little over two years now, working alongside [Primitive](https://github.com/primitivefinance) as their Head of Research until this past summer. I have since gone back to school full-time, in hopes of further exploring applications of topology and geometry in software development.
