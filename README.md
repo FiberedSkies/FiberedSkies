@@ -4,7 +4,7 @@ I'm an extremely curious transgender research engineer and mathematical physics 
 
 - 🔭 I'm currently reading
   - [ ] [Discrete Differential Geometry: An Applied Introduction](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
-  - [ ] [Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
+  - [ ] [Homotopy Type Theory](https://hott.github.io/book/hott-online-13-g2e736d1.pdf)
   - [ ] [Topological Signal Processing](https://link.springer.com/book/10.1007/978-3-642-36104-3)
 - 🌱 I'm working on some fun side projects in Rust like these
   - [type_sheaf](https://github.com/Autoparallel/type_sheaf)
