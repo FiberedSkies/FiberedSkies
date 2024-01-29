@@ -10,7 +10,7 @@ I'm an extremely curious transgender research engineer and mathematical physics 
   - [type_sheaf](https://github.com/Autoparallel/type_sheaf)
   - [pathfinder](https://github.com/0xEstelle/pathfinder)
 - 🖥️ I work mainly in Rust, Python, SQL, Julia, GraphQL, and R
-- 🏳️‍⚧️ Pronouns: She/her
+- ‼️ Fun fact: I love Wes Anderson movies
 
 ### Education
 
