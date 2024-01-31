@@ -8,7 +8,6 @@ I'm an extremely curious transgender research engineer and mathematical physics 
   - [ ] [Topological Signal Processing](https://link.springer.com/book/10.1007/978-3-642-36104-3)
 - 🌱 I'm working on some fun side projects in Rust like these
   - [type_sheaf](https://github.com/Autoparallel/type_sheaf)
-  - [pathfinder](https://github.com/0xEstelle/pathfinder)
 - 🖥️ I work mainly in Rust, Python, SQL, Julia, GraphQL, and R
 - ‼️ Fun fact: I love Wes Anderson movies
 
