@@ -1,6 +1,6 @@
 ### Hey I'm Estelle 🌟
 
-I'm an extremely curious transgender research engineer and mathematical physics student at University of Waterloo 🌌. I've been an active researcher in decentralized finance for three years now, working alongside [Primitive](https://github.com/primitivefinance) for a lot of it. My current research interests include applications of sheaf theory in quantum criticality, as well as in data and networking infrastructure. I'm interested in some day learning about homotopy type theory and maybe exploring Rust packages that do stuff like [this](https://github.com/chakravala/Grassmann.jl).
+I'm a research engineer and mathematical physics student at University of Waterloo 🌌. I've been a research scientist in decentralized finance for the past three years, working alongside [Primitive](https://github.com/primitivefinance) for most of it guiding their portfolio management research. My current research interests include exploring applications of sheaf theory and algebraic geometry in the study of quantum criticality and the connection with classical emergent behavior. On the side, I've been exploring applications of topology in networking and data infrastructure, with a focus on multi-objective pathfinding in dynamic networks.
 
 - 🔭 I'm currently reading
   - [ ] [Discrete Differential Geometry: An Applied Introduction](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
@@ -9,13 +9,12 @@ I'm an extremely curious transgender research engineer and mathematical physics 
 - 🌱 I'm working on some fun side projects in Rust like these
   - [type_sheaf](https://github.com/Autoparallel/type_sheaf)
 - 🖥️ I work mainly in Rust, Python, SQL, Julia, GraphQL, and R
-- ‼️ Fun fact: I love Wes Anderson movies
 
 ### Education
 
 BSc - Mathematical Physics (In-progress)
 
-Working through my undergraduate degree in mathematical physics while I explore applications of topology and geometry
+Working through my undergraduate degree in mathematical physics while I explore applications of topology and geometry in condensed matter physics.
 
 ### Blogs
 
