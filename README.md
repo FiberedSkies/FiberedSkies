@@ -1,6 +1,6 @@
 ### Hey I'm Estelle 🌟
 
-I'm a research engineer and mathematical physics student at University of Waterloo 🌌. I've been a research scientist in decentralized finance for the past three years, working alongside [Primitive](https://github.com/primitivefinance) for most of it guiding their portfolio management research. My current research interests include exploring applications of sheaf theory and algebraic geometry in the study of quantum criticality and the connection with classical emergent behavior. On the side, I've been exploring applications of topology in networking and data infrastructure, with a focus on multi-objective pathfinding in dynamic networks.
+I'm a research engineer and mathematical physics student at University of Waterloo 🌌. I've been a research scientist in decentralized finance for the past three years, working alongside [Primitive](https://github.com/primitivefinance) for most of it guiding their portfolio management research. My current research interests include exploring topological quantum matter, particularly applications of algebraic topology in studying quantum criticality. On the side, I've been exploring applications of topology in networking and data infrastructure, with a focus on multi-objective pathfinding in dynamic networks.
 
 - 🔭 I'm currently reading
   - [ ] [Discrete Differential Geometry: An Applied Introduction](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
