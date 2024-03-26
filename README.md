@@ -1,6 +1,6 @@
 ### Hey I'm Estelle 🌟
 
-I'm a Research Engineer exploring a mixture of condensed matter physics, algebraic geometry and category theory, hardware development, and data infrastructure. I also study mathematical physics at UWaterloo 🌌. Previously, I've worked in DeFi for around 3 years, mainly working on mechanism design research for on-chain portfolio replication with [Primitive](https://www.primitive.xyz/). Always looking for fun mathy projects to work on!
+I'm a Research Engineer currently exploring a mixture of condensed matter physics, algebraic geometry and category theory, and hardware development. I also study mathematical physics at UWaterloo 🌌, and research in the DeFi space sometimes. Previously, I was researching mechanism design for on-chain portfolio replication with [Primitive](https://www.primitive.xyz/). I really love anything algebraic geometry, category theory, and/or network theory, and lately have been thinking about applications of this in signal processing, sensor fusion, and data infra. It has led me to start playing with embedded systems and sensor networks. On the physics side of things, I have the broad focus of exploring quantum phases of matter from the lense of algebraic geometry and category theory, particularly focusing on critical phenomena. I would love to start looking into quantum hardware development.
 
 - 🔭 I'm currently reading
   - [ ] [Topological Signal Processing](https://link.springer.com/book/10.1007/978-3-642-36104-3)
