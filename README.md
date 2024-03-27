@@ -4,6 +4,7 @@ I'm a Research Engineer currently exploring a mixture of condensed matter physic
 
 - 🔭 I'm currently reading
   - [ ] [Topological Signal Processing](https://link.springer.com/book/10.1007/978-3-642-36104-3)
+  - [ ] [What is Quantum Field Theory?](https://www.cambridge.org/core/books/what-is-a-quantum-field-theory/899688E515D7E05AAA88DB08325E6EAE)
   - [ ] [Discrete Differential Geometry: An Applied Introduction](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
 - 🌱 I'm working on some fun side projects in Rust like these
   - [type_sheaf](https://github.com/Autoparallel/type_sheaf)
