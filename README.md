@@ -1,13 +1,14 @@
 ### Hey I'm Estelle 🌟
 
-I'm a Research Engineer currently exploring a mixture of condensed matter physics, algebraic geometry and category theory, and hardware development. I also study mathematical physics at UWaterloo 🌌. I really love anything algebraic geometry, category theory, and network theory, and lately have been thinking about applications of this in signal processing, sensor fusion, and data infra. It's led me to start playing with embedded systems and sensor networks (would love to collaborate on this more!) On the physics side of things, I have the broad focus of exploring quantum phases of matter from the lense of algebraic geometry and category theory, particularly focusing on critical phenomena. I would love to start looking into quantum hardware development.
+I'm a research engineer currently exploring a mixture of condensed matter physics, algebraic geometry and category theory, and hardware development. I also study mathematical physics at UWaterloo 🌌. I really love anything algebraic geometry, category theory, and network theory, and lately have been thinking about applications of this in signal processing, sensor fusion, and data infra. It's led me to start playing with embedded systems and sensor networks (would love to collaborate on this more!) On the physics side of things, I have the broad focus of exploring quantum phases of matter from the lense of algebraic geometry and category theory, particularly focusing on critical phenomena. I would love to start looking into quantum hardware development.
 
 - 🔭 I'm currently reading
   - [ ] [Topological Signal Processing](https://link.springer.com/book/10.1007/978-3-642-36104-3)
   - [ ] [Categories for the Working Mathematician](https://math.mit.edu/~hrm/palestine/maclane-categories.pdf)
-  - [x] [Sheaves in Geometry and Logic: A First Introduction to Topos Theory](https://link.springer.com/book/10.1007/978-1-4612-0927-0)
+  - [ ] [Sheaves in Geometry and Logic: A First Introduction to Topos Theory](https://link.springer.com/book/10.1007/978-1-4612-0927-0)
 - 🌱 I'm working on some fun side projects in Rust like these
   - [type_sheaf](https://github.com/Autoparallel/type_sheaf)
+  - [bloch](https://github.com/0xEstelle/bloch)
 - 🖥️ I work mainly in Rust, Python, SQL, Julia, GraphQL, and R
 
 ### Education
