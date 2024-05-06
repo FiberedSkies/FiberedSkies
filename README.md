@@ -10,7 +10,7 @@ I'm an applied math researcher currently exploring a mixture of condensed matter
 - 🌱 I'm working on some fun side projects in Rust like these
   - [type_sheaf](https://github.com/Autoparallel/type_sheaf)
   - [bloch](https://github.com/0xEstelle/bloch)
-- 🖥️ I work mainly in Rust, Python, SQL, Julia, GraphQL, and R
+- 🖥️ I work mainly in Rust, Python, SQL, and Julia
 
 ## Education
 
