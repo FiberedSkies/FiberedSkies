@@ -1,6 +1,6 @@
 ## Hey I'm Estelle 🌟
 
-I'm an applied math researcher currently exploring a mixture of condensed matter theory, algebraic geometry and category theory, and hardware development. I'm also studying mathematical physics at University of Waterloo 🌌. My research interests include applications of higher category theory and derived geometry in quantum state tomography, and more broadly, in noncommutative information geometry. In rough terms, my focus is in answering one question: how do we measure a space in which we, as the observer, are a part of? This question comes up in really any sensor fusion problem where the act of measurement affects the outcome of the system, however, the setting that interests me the most is in the study of critical and pseudocritical phenomena in statistical systems.
+I'm an applied math nerd interested in higher categorical applications in sensor fusion and tomography.
 
 - 📚 I'm currently working through:
   - [ ] [Topological Signal Processing](https://link.springer.com/book/10.1007/978-3-642-36104-3)
