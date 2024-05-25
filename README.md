@@ -14,7 +14,7 @@ I'm an applied math nerd interested in higher categorical applications in sensor
 
 ## Education
 
-BSc - Mathematical Physics, University of Waterloo (starting 3rd year in the fall)
+BSc - Mathematical Physics, University of Waterloo
 
 ## DeFi Research
 
