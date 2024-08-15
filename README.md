@@ -1,10 +1,10 @@
 ## Hey I'm Estelle 🌟
 
-I'm an applied math nerd interested in higher categorical applications in sensor fusion and tomography.
+I like to experiment algebraic geometry and category theory in electronics, sensor fusion, and condensed matter physics
 
 - 📚 I'm currently working through:
   - [ ] [Topological Signal Processing](https://link.springer.com/book/10.1007/978-3-642-36104-3)
-  - [ ] [Categories for the Working Mathematician](https://math.mit.edu/~hrm/palestine/maclane-categories.pdf)
+  - [X] [Categories for the Working Mathematician](https://math.mit.edu/~hrm/palestine/maclane-categories.pdf)
   - [ ] [Sheaves in Geometry and Logic: A First Introduction to Topos Theory](https://link.springer.com/book/10.1007/978-1-4612-0927-0)
   - [ ] [The Stacks Project](https://stacks.math.columbia.edu/browse) (Obviously not all of it, that would be insane 💀)
 - 🌱 I'm working on some fun side projects in Rust like these
